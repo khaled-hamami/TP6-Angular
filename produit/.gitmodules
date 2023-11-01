@@ -1,0 +1,3 @@
+[submodule "atelier01"]
+	path = atelier01
+	url = https://github.com/sifon30/atelier1.git
